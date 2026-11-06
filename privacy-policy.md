@@ -19,17 +19,21 @@ The Game is intended for players aged 13 and older. It includes Google AdMob adv
 
 2. Age Requirements
 
-Monster Outlaws – Inquisition Breakout is intended for players aged 13 and older and is not directed toward children under 13.
+Monster Outlaws – Inquisition Breakout is intended for players aged 13 and older.
 
-We do not knowingly solicit personal information from children under 13.
+When first launching the Game, players are asked to select their age range: (Under 13, 13–15, 16–17, 18 or older)
 
-Additional privacy protections may apply to teenage players depending on their location and applicable laws.
+The selected age range is stored locally on the player's device and is used to determine access to the Game and apply appropriate advertising and privacy protections.
 
-Where required, we apply age-appropriate advertising restrictions and obtain necessary consent.
+Players who indicate they are under 13 are not permitted to access the Game.
+
+We do not require players to provide their exact date of birth.
+
+The Game is not directed toward children under 13, and we do not knowingly collect personal information directly from children under 13.
+
+Additional advertising and privacy protections may apply to teenage players depending on their age, location, and applicable laws.
 
 Players under the age of majority should obtain permission from a parent or legal guardian before making purchases.
-
-If you believe a child under 13 has provided personal information through the Game, please contact us.
 
 3. Locally Stored Game Information
 
