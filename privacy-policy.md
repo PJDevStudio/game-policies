@@ -39,7 +39,7 @@ Players under the age of majority should obtain permission from a parent or lega
 
 The Game stores the following information locally on your device:
 
-Player name and selected avatar.
+Selected age range.
 
 Campaign progress and completed missions.
 
@@ -217,15 +217,19 @@ Comply with applicable legal obligations.
 
 9. Advertising Consent and Privacy Choices
 
-Where required by law, players will be provided with appropriate advertising consent choices.
+Monster Outlaws – Inquisition Breakout uses Google AdMob to display mission-end advertisements and optional rewarded advertisements.
 
-These choices may include accepting, rejecting, or managing certain advertising-related data processing.
+Before requesting advertisements, the Game uses the player's selected age range and applicable regional privacy requirements to determine appropriate advertising treatment.
 
-The Game includes an advertising privacy options interface where supported.
+Advertising restrictions may include limitations on personalized advertising, advertising identifiers, and advertisement content.
 
-Players may also manage certain tracking and advertising settings through their device.
+Where legally required, the Game requests advertising consent and provides options to manage privacy preferences.
 
-Additional advertising restrictions may apply to teenage players and users in certain jurisdictions.
+Players who purchase Remove Mission Ads Forever for $2.99 will no longer receive mission-end advertisements. Optional rewarded advertisements remain available for players who voluntarily choose to watch them to earn 100 virtual Gold.
+
+The Game provides advertising privacy options where supported, allowing players to review or change applicable consent choices.
+
+Players may also manage certain advertising and tracking settings through their device's privacy settings.
 
 10. Data Sharing
 
